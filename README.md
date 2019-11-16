@@ -1,1 +1,1 @@
-# custom-git-commands-for-newbies
+# custom-git-scripts 

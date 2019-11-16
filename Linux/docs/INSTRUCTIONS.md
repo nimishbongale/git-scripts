@@ -13,5 +13,5 @@ sh setup.sh
 
 ---
 
-If everything has been setup correctly, you can try out the list of commands listed [](here).
-If they don't work as expected, you might have to individually give in the commands listed in setup.bat.
+If everything has been setup correctly, you can try out the list of commands listed [here](README.md).
+If they don't work as expected, you might have to individually give in the commands listed in setup.sh.

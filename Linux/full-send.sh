@@ -1,3 +1,4 @@
+#!/bin/sh
 echo ===== Running git full-send ===== 
 echo
 echo ***** Press Ctrl+C at any point to terminate ***** 

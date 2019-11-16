@@ -1,3 +1,4 @@
+#!/bin/sh
 git config --global alias.full-send '../../full-send.sh'
 chmod +x Linux/full-send.sh
 git config --global alias.send '../../send.sh'

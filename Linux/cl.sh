@@ -1,3 +1,4 @@
+#!/bin/sh
 echo ===== Running git cl ===== 
 echo
 echo ***** Press Ctrl+C at any point to terminate ***** 
