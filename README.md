@@ -1,7 +1,8 @@
 # custom-git-scripts
 
-
-![git-scripts](https://i.ibb.co/82rTdx3/gitscripts.png)
+<p align="center">
+<img src="https://i.ibb.co/82rTdx3/gitscripts.png">
+</p>
 
 
 git-scripts is a collection of custom build git commands to simplify the procedures of going about the git workflows.
