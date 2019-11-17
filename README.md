@@ -9,6 +9,12 @@ git-scripts is a collection of custom build git commands to simplify the procedu
 
 ## Installation
 
+Clone the repo in your C drive (Windows) and your home (root) directory in Linux.
+
+```git
+git clone https://github.com/nimishbongale/git-scripts.git
+```
+
 Check the Individual INSTRUCTIONS.md for setup and Installation guides. 
 
 ## Usage
